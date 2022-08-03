@@ -104,7 +104,7 @@
 						</div>
 						<div class="cda-content-inner">
 							<h4>Company Location</h4>
-							<p>Logbessou,  <br> Douala, Cameroon</p>
+							<p>Street,  <br> City, Country</p>
 						</div>
 					</div>
 				</div>
@@ -115,7 +115,7 @@
 						</div>
 						<div class="cda-content-inner">
 							<h4>Telephone Number</h4>
-							<p>+237 694 378 506</p>
+							<p>+000 000 000 000</p>
 						</div>
 					</div>
 				</div>
@@ -126,7 +126,7 @@
 						</div>
 						<div class="cda-content-inner">
 							<h4>Our Email Address</h4>
-							<p>info@gmail.com</p>
+							<p>info@email.com</p>
 						</div>
 					</div>
 				</div>

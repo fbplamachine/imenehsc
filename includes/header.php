@@ -1,7 +1,7 @@
 <div class="header-area transparent" id="sticky-header">
     <div class="container">
         <div class="m-logo">
-            <a href="#"><span class="logo-txt"></span></a>
+            <a href="index"><span class="logo-txt"></span></a>
         </div>
         <div class="menu-toggle">
             <span class="open_bar"><i class="fas fa-bars"></i></span>

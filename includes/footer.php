@@ -43,9 +43,9 @@
                         <p>HSC Mineral Exports is your one-stop destination for all your building needs</p>
                     </div>
                     <div class="footer-adderss">
-                        <p><b>address:</b> <span>Logbessou, Douala, Cameroon</span></p>
-                        <p><b>Telephone:</b> <span>+237 694 378 506</span></p>
-                        <p><b>Email:</b> <span>imenehsc@mail.com</span></p>
+                        <p><b>address:</b> <span>Street, City, Contry</span></p>
+                        <p><b>Telephone:</b> <span>+000 000 000 000</span></p>
+                        <p><b>Email:</b> <span>info@email.com</span></p>
                     </div>
                 </div>
             </div>

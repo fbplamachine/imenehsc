@@ -19,9 +19,9 @@
 				<div class="col-lg-8">
 					<div class="header-top-address">
 						<ul>
-							<li><a href="#"><i class="far fa-envelope"></i> imenehsc@mail.com</a></li>
-							<li><a href="#"><i class="fas fa-map-marker-alt"></i> Douala, Cameroon</a></li>
-							<li><a href="#"><i class="fas fa-phone"></i> + (237) 694 378 506</a></li>
+							<li><a href="#"><i class="far fa-envelope"></i> info@email.com</a></li>
+							<li><a href="#"><i class="fas fa-map-marker-alt"></i> Street, City, Country</a></li>
+							<li><a href="#"><i class="fas fa-phone"></i> + (000) 000 000 000</a></li>
 						</ul>
 					</div>
 				</div>
